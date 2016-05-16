@@ -1,0 +1,28 @@
+name: uncollecting
+favicon: null
+layout_spectrum: 0.637634867336601
+typography_spectrum: 0.7703789975494146
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9552323922980577
+  lightness: 0.021685542771592736
+  saturation: 0.20259729539975524
+  rhythmicContrast: 0.7206603321246803
+purpose: []
