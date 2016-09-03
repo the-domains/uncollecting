@@ -1,19 +1,4 @@
-name: uncollecting
-favicon: null
-layout_spectrum: 0.637634867336601
 typography_spectrum: 0.7703789975494146
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#17BEBB'
@@ -25,4 +10,20 @@ color:
   lightness: 0.021685542771592736
   saturation: 0.20259729539975524
   rhythmicContrast: 0.7206603321246803
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.637634867336601
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: uncollecting
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: stuff
 purpose: []
